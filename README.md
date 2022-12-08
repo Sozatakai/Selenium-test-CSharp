@@ -3,13 +3,13 @@ Test code for form automation with visual studio / selenium
 
 ### `Install Selenium / NuGet`
 - In manage NuGet packages, search in browse "`Selenium.WebDriver`, `Selenium.Support`, `Selenium.WebDriver.ChromeDriver`" 
-
----
+<br />
 
 <img src="Screenshots/Manage NuGet Packages.png"> 
+<br />
 
---------
 <img src="/Screenshots/Packages.png">
+<br />
 
 In order to run the code from multiple browsers, you will have to install other packages depending on the browser you want to use.
 
