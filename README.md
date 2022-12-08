@@ -17,6 +17,7 @@ Microsoft Edge -> `Selenium.WebDriver.MSEdgeDriver`
 
 
 After that we have to import the libraries that we´ll use, it will allows you to use types defined in a namespace without specifying the full namespace of that type.
+
 --------
 ### `Import namespaces`
 
