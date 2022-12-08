@@ -1,4 +1,4 @@
-using OpenQA.Selenium;
+﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
 class MainClass
@@ -57,7 +57,7 @@ class MainClass
 
 
     }
-    
+
     static void Field1()
     {
         string[] paths = new string[2];
@@ -94,7 +94,7 @@ class MainClass
             case 2: value = "Dos"; break;
             case 3: value = "Tres"; break;
         }
-      
+
         currentElement = driver.FindElement(By.CssSelector(pathField2));
         currentElement.SendKeys(value);
     }
