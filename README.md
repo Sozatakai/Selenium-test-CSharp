@@ -21,8 +21,9 @@ After that we have to import the libraries that we´ll use, it will allows you t
 --------
 ### `Import namespaces`
 
+```c#
+using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
+```
 
-[using](https://learn.microsoft.com/es-es/dotnet/csharp/language-reference/keywords/using-directive) OpenQA.Selenium
-
-[using](https://learn.microsoft.com/es-es/dotnet/csharp/language-reference/keywords/using-directive) OpenQA.Selenium.Chrome
 
